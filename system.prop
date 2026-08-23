@@ -9,3 +9,5 @@ ro.miui.notch=1
 ro.miui.ui.version.name=V816
 ro.miui.ui.version.code=816
 ro.product.camera.livephoto.support=3
+vendor.camera.aux.packagelist=com.android.camera,org.lineageos.aperture,com.google.android.GoogleCamera
+vendor.camera.support.mivi=true
